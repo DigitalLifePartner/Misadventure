@@ -1,0 +1,11 @@
+C:\Users\dlpuk\OneDrive\Documents\Visual Studio 2015\Projects\Misadventure\Misadventure\bin\Debug\Misadventure.exe.config
+C:\Users\dlpuk\OneDrive\Documents\Visual Studio 2015\Projects\Misadventure\Misadventure\bin\Debug\Misadventure.exe
+C:\Users\dlpuk\OneDrive\Documents\Visual Studio 2015\Projects\Misadventure\Misadventure\bin\Debug\Misadventure.pdb
+C:\Users\dlpuk\OneDrive\Documents\Visual Studio 2015\Projects\Misadventure\Misadventure\bin\Debug\Engine.dll
+C:\Users\dlpuk\OneDrive\Documents\Visual Studio 2015\Projects\Misadventure\Misadventure\bin\Debug\Engine.pdb
+C:\Users\dlpuk\OneDrive\Documents\Visual Studio 2015\Projects\Misadventure\Misadventure\obj\Debug\Misadventure.csprojResolveAssemblyReference.cache
+C:\Users\dlpuk\OneDrive\Documents\Visual Studio 2015\Projects\Misadventure\Misadventure\obj\Debug\Misadventure.Properties.Resources.resources
+C:\Users\dlpuk\OneDrive\Documents\Visual Studio 2015\Projects\Misadventure\Misadventure\obj\Debug\Misadventure.csproj.GenerateResource.Cache
+C:\Users\dlpuk\OneDrive\Documents\Visual Studio 2015\Projects\Misadventure\Misadventure\obj\Debug\Misadventure.exe
+C:\Users\dlpuk\OneDrive\Documents\Visual Studio 2015\Projects\Misadventure\Misadventure\obj\Debug\Misadventure.pdb
+C:\Users\dlpuk\OneDrive\Documents\Visual Studio 2015\Projects\Misadventure\Misadventure\obj\Debug\Misadventure.Form1.resources
